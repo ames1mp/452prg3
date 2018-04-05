@@ -1,0 +1,15 @@
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Mike\Desktop\452prg3\pagingSim\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
